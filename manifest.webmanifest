@@ -1,0 +1,13 @@
+{
+  "name": "매경800",
+  "short_name": "매경800",
+  "description": "개인용 매경TEST 학습 기록 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#111827",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
